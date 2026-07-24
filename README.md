@@ -26,6 +26,6 @@
 
 ## 🚀 Демо
 
-[Живая демонстрация](https://quarikai.github.io/Key-Racer/)
+[Живая демонстрация](https://quarikai.github.io/Key-Racer/typing-trainer/)
 
 ## 📦 Установка и запуск
